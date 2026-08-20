@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Tae-gyun Kim
 
-<!--
-**gyuun/gyuun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate researcher at [PNU G&GP Lab](https://sites.google.com/view/pnu-gngp), Pusan National University, working on geometric computing and 3D data processing.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- AI agents and applied machine learning
+- Computer-aided design and geometric design
+- 3D data processing
+- Building reliable end-to-end systems
+
+## Recognition
+
+- **2025 PNU Medical Hackathon** - Excellence Award (부산대학교 산학협력단장상)
+  - [DocDoc Tray System](https://github.com/gyuun/docdoc-tray-system)
