@@ -11,6 +11,7 @@ I am an undergraduate researcher at [PNU G&GP Lab](https://sites.google.com/view
 - Building reliable end-to-end systems
 
 ## Recognition
-
+- **2026 PNU AI Hackaton** - :trophy: Grand Award (부산대학교총장상)
+  - [CADGEN-AX](https://github.com/gyuun/pnuai-c-04-individualstartup.git)
 - **2025 PNU Medical Hackathon** - :trophy: Grand Award (부산대학교 산학협력단장상) 
   - [DocDoc Tray System](https://github.com/gyuun/docdoc-tray-system)
