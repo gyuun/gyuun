@@ -12,9 +12,7 @@ I'm an undergraduate researcher at [PNU G&GP Lab](https://sites.google.com/view/
 - **2026 대학창업 페스티벌 (중소벤처기업부)** - :trophy: Creativity Award (창의상: 부산대학교 총장상)
 - **2026 모두의 창업 대학리그 (창업진흥원)** - :trophy: Excellence Award (우수상)
 - **2026 제 7회 PNU 창의융합 AI 해커톤 (부산대학교)** - :trophy: Grand Award (대상: 부산대학교 총장상)
-  - [CADGEN-AX](https://github.com/gyuun/pnuai-c-04-individualstartup.git)
 - **2025 제 4회 부산대학교 메디컬 해커톤 경진대회 (부산대학교)** - :trophy: Best Excellence Award (최우수상: 부산대학교 산학협력단장상) 
-  - [DocDoc Tray System](https://github.com/gyuun/docdoc-tray-system)
 
 ### Honorable mention
 - **2026 AI 지역문제해결 창업경진대회 (UNIST, 울산시)**
