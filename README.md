@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tae-gyun Kim
 
-I'm an undergraduate researcher at [PNU G&GP Lab](https://sites.google.com/view/pnu-gngp), Pusan National University, researching on Text-to-CAD
+I'm an undergraduate researcher at [PNU Graphics & Geometric Processing Lab](https://sites.google.com/view/pnu-gngp), Pusan National University, researching on Text-to-CAD
 
 
 ## Interests
