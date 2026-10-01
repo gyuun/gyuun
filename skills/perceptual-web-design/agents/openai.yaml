@@ -1,0 +1,4 @@
+interface:
+  display_name: "Perceptual Web Design"
+  short_description: "시각적 위계·여백·정렬·의미 있는 색상으로 웹 UI 설계·개선"
+  default_prompt: "$perceptual-web-design 스킬로 이 웹 화면의 시각적 위계와 여백, 색상 의미를 검토하고 개선해줘."

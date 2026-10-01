@@ -1,0 +1,10 @@
+{
+  "name": "gyuun-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1 --directory site",
+    "check": "node --check site/main.js && node --check site/geometry.js && node --check site/hero.js && node --test tests/geometry.test.js"
+  }
+}
