@@ -8,12 +8,12 @@ I'm an undergraduate researcher at [PNU Graphics & Geometric Processing Lab](htt
 - Computer-aided design (CAD) and Computer-aided geometric design (CAGD)
 - Computer graphics & Geometric processing
 
-## Internship
-- **부산대학교 그래픽스 및 기하처리 연구실** (2025.11 ~ )
-- **엔지엘(주)** (2025.7 ~ 2025.8)
+## Experience
+- **부산대학교 그래픽스 및 기하처리 연구실**: 학부연구생 (2025.11 ~ )
+- **엔지엘(주)**: 인턴 (2025.7 ~ 2025.8)
 
 ## Recognition
-- **2026 캡스톤디자인(졸업과제)** - 데이터베이스·그래픽스 및 비젼 분과 (부산대학교) - 🥈 **은상** *부산대학교 정보컴퓨터공학부장상*
+- **2026 캡스톤디자인(졸업과제) - *데이터베이스·그래픽스 및 비젼 분과***  (부산대학교) - 🥈 **은상** *부산대학교 정보컴퓨터공학부장상*
 - **2026 대학창업 페스티벌** (중소벤처기업부) - 🎖️ **창의상** *부산대학교 총장상*
 - **2026 모두의 창업 대학리그**  (창업진흥원) - 🏆 **우수상** *모두의창업 2기 2라운드 진출*
 - **2026 제 7회 PNU 창의융합 AI 해커톤** (부산대학교) - 🥇 **대상** *부산대학교 총장상*
